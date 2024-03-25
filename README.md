@@ -25,6 +25,10 @@ An in-depth paragraph about your project and overview of use.
 
 ### Executing program
 
+* Setup Database
+* flask --app flaskr init-db
+
+* Run Application
 * flask --app flaskr run
 
 
