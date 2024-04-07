@@ -5,19 +5,15 @@
 
 # Project Title
 
-Simple overview of use/purpose.
+Mini Project 3
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+This is a basic blog application that allows users to register, login, then create and edit blog posts.
 
 ## Getting Started
 
 ### Dependencies
-
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
-* List pip install instructions.
 
 ### Installing
 
